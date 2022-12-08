@@ -82,11 +82,12 @@ bash ./ruesandora.sh
 
 ## Şimdi Wormholes wallet'tan private keyi alalım: [Wallet Linki](https://www.limino.com/#/wallet)
 
-* Setings kısmına giriyoruz: 
+* Settings kısmına giriyoruz: 
 
 ![image](https://user-images.githubusercontent.com/101149671/193398695-a53afc57-c569-4af4-b370-98f3ee27c384.png)
 
 * Security kısmına girelim:
+
 ![image](https://user-images.githubusercontent.com/101149671/193398742-413fb950-d0e5-4246-927a-e2e45421afb7.png)
 
 * Şifre vs. girip private keyi alın:
@@ -99,7 +100,7 @@ bash ./ruesandora.sh
 
 ![image](https://user-images.githubusercontent.com/101149671/193398861-76f7563c-98ff-448f-bb9c-43e5eefc2f77.png)
 
-## bu komutla kontrol ediyoruz:
+## Bu komutla kontrol ediyoruz:
 ```
 docker ps
 ```
